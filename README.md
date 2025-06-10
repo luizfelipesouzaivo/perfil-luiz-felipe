@@ -31,6 +31,7 @@ Universidade Estácio de Sá
 
 📘 **Pós-graduação (em andamento)**  
 **MIT - Inteligência Artificial, Machine Learning e Deep Learning**
+Faculdade Infnet
 
 
 ## Contato
