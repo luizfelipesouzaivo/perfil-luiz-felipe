@@ -23,6 +23,9 @@ Busco oportunidades para aplicar minhas habilidades em **Data Science**, **Busin
 |--------|
 - [Algoritmos de Inteligência Artificial para classificação](https://github.com/luizfelipesouzaivo/algoritmos-ia-classificacao)  
 - [Processamento de linguagem natural com Python](https://github.com/luizfelipesouzaivo/projeto-pln-folha-2016)
+- [Introdução às LLMs para Processamento de Linguagem Natural](https://github.com/luizfelipesouzaivo/llm-nlp-project)
+- [Algoritmos de IA para Clusterização](https://github.com/luizfelipesouzaivo/algoritmos-ia-clusterizacao)
+- [Validação de Modelos de Clusterização](https://github.com/luizfelipesouzaivo/cluster-model-validation)
 
 ## Formação Acadêmica
 
