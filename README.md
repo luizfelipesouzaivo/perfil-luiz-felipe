@@ -1,8 +1,8 @@
 # Perfil Luiz Felipe !
 
-Olá! Eu sou o Luiz Felipe,
-
 🎓 Analista de Dados | 💻 Formado em Sistemas de Informação | 🤖 Pós-graduando em IA, Machine Learning e Deep Learning
+
+Olá! Eu sou o Luiz Felipe,
 
 Bem-vindo ao meu GitHub! 👋  
 Aqui você encontrará projetos práticos voltados para **Análise de Dados, Inteligência Artificial, Machine Learning e Processamento de Linguagem Natural (NLP)**, desenvolvidos com foco em aprendizado aplicado, boas práticas e código reprodutível.
