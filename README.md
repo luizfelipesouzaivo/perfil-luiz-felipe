@@ -4,18 +4,23 @@ Olá! Eu sou o Luiz Felipe,
 
 🎓 Analista de Dados | 💻 Formado em Sistemas de Informação | 🤖 Pós-graduando em IA, Machine Learning e Deep Learning
 
-Sou formado em **Sistemas de Informação pela Universidade Estácio de Sá** e atualmente estou cursando pós-graduação em **MIT - Inteligência Artificial, Machine Learning e Deep Learning**.  
-Tenho paixão por transformar dados em soluções práticas, com foco em visualização, modelagem e análise preditiva para apoio à tomada de decisões.
+Bem-vindo ao meu GitHub! 👋  
+Aqui você encontrará projetos práticos voltados para **Análise de Dados, Inteligência Artificial, Machine Learning e Processamento de Linguagem Natural (NLP)**, desenvolvidos com foco em aprendizado aplicado, boas práticas e código reprodutível.
 
-Busco oportunidades para aplicar minhas habilidades em **Data Science**, **Business Intelligence** e **Machine Learning** em projetos reais que gerem impacto.
+## Sobre Mim
+
+Sou **Analista de Dados** com interesse em transformar dados em insights e soluções inteligentes. Tenho experiência no desenvolvimento e validação de modelos de **classificação e clusterização**, além de estudos e aplicações iniciais com **LLMs (Large Language Models)** para NLP.
+
+Atuo principalmente com **Python**, utilizando bibliotecas consolidadas do ecossistema de dados, sempre buscando clareza, organização e documentação nos projetos.
+
 
 ## Principais Tecnologias
 
-- **Linguagens:** Python, SQL
-- **Bibliotecas:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- **Banco de Dados:** PostgreSQL, MySQL
-- **BI & Visualização:** Power BI, Excel Avançado, Matplotlib, Seaborn
-- **Ferramentas:** Git, GitHub, Jupyter Notebook, VSCode, Google Colab
+- **Linguagem:** Python  
+- **Bibliotecas:** Pandas, NumPy, Scikit-learn  
+- **Machine Learning:** Classificação, Clusterização, Validação de Modelos  
+- **NLP:** Pré-processamento de texto, vetorização, fundamentos de LLMs  
+- **Ferramentas:** Git, GitHub, Jupyter Notebook, VS Code  
 
 ## Projetos em Destaque
 
