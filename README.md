@@ -313,7 +313,7 @@ Tenho interesse em ambientes nos quais possa aplicar conhecimentos técnicos, de
 
 ### 🌐 Site Profissional
 
-**[www.luizfelipesouzaivo.com.br]**
+**www.profissionalluizfelipeivo.com.br**
 
 ### 💼 LinkedIn
 
