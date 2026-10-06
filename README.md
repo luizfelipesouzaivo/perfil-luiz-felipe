@@ -1,77 +1,66 @@
 # 👋 Olá, eu sou Luiz Felipe!
 
-### 🧪 QA Júnior | Testes Manuais | Automação de Testes
+### QA Júnior | Dados | Python | SQL | Automação
 
-Sou profissional de tecnologia em início de carreira, atualmente direcionando minha trajetória para **Quality Assurance (QA)**.
+Sou profissional de tecnologia em início de carreira, com foco em **Quality Assurance (QA)** e **Análise de Dados**.
 
-Tenho interesse em entender como os sistemas funcionam, identificar possíveis problemas e criar testes que ajudem a garantir uma melhor qualidade do software.
+Gosto de transformar problemas em soluções práticas, seja através de testes para garantir a qualidade de um software ou através de dados para encontrar padrões, gerar análises e apoiar decisões.
 
-Meu objetivo é ingressar profissionalmente na área de **QA Júnior**, desenvolvendo cada vez mais minhas habilidades em testes manuais e automação.
+Atualmente estou desenvolvendo meu portfólio através de projetos práticos, buscando evoluir tecnicamente e ingressar profissionalmente na área de tecnologia.
 
 ---
 
 ## 🎯 Sobre mim
 
-* 🧪 Focado em **Quality Assurance**
-* 🔎 Interesse em **Testes Manuais e Automação**
-* 🐍 Estudando **Python**
-* 🎭 Praticando automação com **Playwright**
-* 🧪 Utilizando **Pytest**
-* 📝 Criação de **Casos de Teste**
-* 📋 Escrita de cenários utilizando **Gherkin**
-* 🐞 Identificação e documentação de **bugs**
-* 🔧 Utilização de **Git e GitHub**
-* 💻 Desenvolvimento dos meus projetos utilizando **VS Code**
+* 🧪 Foco em **Quality Assurance**
+* 📊 Interesse em **Análise de Dados**
+* 🐍 Python
+* 🗄️ SQL
+* 📈 Power BI
+* 🧮 Pandas
+* 🤖 Machine Learning
+* 🎭 Playwright
+* 🧪 Pytest
+* 📝 Gherkin e casos de teste
+* 🐞 Identificação e documentação de bugs
+* 🔧 Git e GitHub
 
-Busco transformar meus estudos em projetos práticos, criando um portfólio que demonstre minha evolução na área de QA.
+Meu objetivo é construir experiência prática e continuar evoluindo através de projetos reais de estudo.
 
 ---
 
-# 🧪 Conhecimentos em QA
+# 🧪 QA — Quality Assurance
 
-### Testes
+Tenho estudado QA principalmente através de projetos práticos, trabalhando desde a criação dos cenários até a automação dos testes.
+
+### Conhecimentos
 
 * Testes funcionais
 * Testes positivos e negativos
 * Testes exploratórios
 * Testes de regressão
 * Casos de teste
-* Cenários de teste
 * Gherkin
 * Bug Report
 * Evidências de teste
 * Validação de requisitos
-
-### Automação
-
-* Python
-* Pytest
-* Playwright
-* Page Object Model (POM)
+* Automação de testes web
+* Page Object Model
 * Assertions
 * Fixtures
-* Organização de testes
-* Automação de fluxos web
-
-### Ferramentas
-
-* Git
-* GitHub
-* GitHub Actions
-* VS Code
-* DevTools
+* Pytest
+* Playwright
 
 ---
 
-# 🚀 Projetos de QA
+## 🛒 Projeto QA — SauceDemo
 
-## 🛒 SauceDemo — Testes Manuais e Automação
+Projeto de testes utilizando uma aplicação de e-commerce como ambiente de estudo.
 
-Projeto completo de estudos utilizando uma aplicação de e-commerce para praticar QA.
+### Atividades realizadas
 
-### O que foi realizado:
-
-* Casos de teste
+* Criação de casos de teste
+* Testes funcionais
 * Testes positivos e negativos
 * Cenários em Gherkin
 * Identificação de bugs
@@ -86,68 +75,102 @@ Projeto completo de estudos utilizando uma aplicação de e-commerce para pratic
 
 ### Tecnologias
 
-`Python` `Pytest` `Playwright` `Gherkin` `GitHub Actions`
+`Python` `Pytest` `Playwright` `Gherkin` `Git` `GitHub Actions`
 
-🔗 **[Ver projeto SauceDemo](https://github.com/luizfelipesouzaivo)**
-
----
-
-## 👥 OrangeHRM — Testes Manuais e Automação
-
-Projeto de prática de QA utilizando o OrangeHRM como sistema para testes.
-
-### Atividades realizadas:
-
-* Criação de casos de teste
-* Testes funcionais
-* Cenários em Gherkin
-* Testes negativos
-* Identificação de bugs
-* Registro de evidências
-* Testes de diferentes funcionalidades
-* Automação de fluxos da aplicação
-
-### Tecnologias
-
-`Python` `Pytest` `Playwright` `Gherkin`
+🔗 [Ver projetos no GitHub](https://github.com/luizfelipesouzaivo)
 
 ---
 
-# 📚 Atualmente estudando
+# 📊 Dados
 
-Estou seguindo uma evolução prática na área de QA, buscando fortalecer principalmente:
+Além de QA, venho desenvolvendo projetos relacionados a **Dados**, utilizando Python, SQL, análise exploratória, visualização e Machine Learning.
 
-```text
-QA
- │
- ├── Testes Manuais
- │   ├── Casos de Teste
- │   ├── Gherkin
- │   ├── Bug Report
- │   └── Testes Exploratórios
- │
- ├── Automação
- │   ├── Python
- │   ├── Pytest
- │   ├── Playwright
- │   └── Page Object Model
- │
- ├── API
- │   └── Postman
- │
- ├── Banco de Dados
- │   └── SQL
- │
- └── Versionamento
-     ├── Git
-     └── GitHub
-```
+Meu objetivo nessa área é aprender a transformar dados em informações úteis para apoiar análises e decisões.
+
+### Conhecimentos
+
+* Python
+* SQL
+* Excel
+* Power BI
+* Pandas
+* NumPy
+* Scikit-learn
+* Análise exploratória de dados
+* Limpeza e tratamento de dados
+* Visualização de dados
+* Machine Learning
+* Classificação
+* Clusterização
+* NLP
 
 ---
 
-# 💻 Tecnologias
+# 📚 Projetos de Dados
 
-<div align="left">
+## 🤖 Algoritmos de IA — Clusterização
+
+Projeto voltado para aplicação de algoritmos de **clusterização**, buscando identificar grupos e padrões dentro dos dados.
+
+**Tecnologias:**
+
+`Python` `Pandas` `Scikit-learn` `Machine Learning`
+
+🔗 [Ver projeto](https://github.com/luizfelipesouzaivo/algoritmos-ia-clusterizacao)
+
+---
+
+## 📊 Cluster Model Validation
+
+Projeto relacionado à **validação de modelos de clusterização**, analisando a qualidade dos agrupamentos gerados pelos algoritmos.
+
+**Tecnologias:**
+
+`Python` `Pandas` `Scikit-learn` `Machine Learning`
+
+🔗 [Ver projeto](https://github.com/luizfelipesouzaivo/cluster-model-validation)
+
+---
+
+## 🧠 LLM & NLP Project
+
+Projeto voltado para **Processamento de Linguagem Natural (NLP)** e utilização de técnicas relacionadas a modelos de linguagem.
+
+**Tecnologias:**
+
+`Python` `NLP` `LLM`
+
+🔗 [Ver projeto](https://github.com/luizfelipesouzaivo/llm-nlp-project)
+
+---
+
+## 📄 Projeto PLN — Folha 2016
+
+Projeto de estudo envolvendo **Processamento de Linguagem Natural**, utilizando dados relacionados à folha de 2016.
+
+**Tecnologias:**
+
+`Python` `NLP` `Pandas`
+
+🔗 [Ver projeto](https://github.com/luizfelipesouzaivo/projeto-pln-folha-2016)
+
+---
+
+## 🤖 Algoritmos de IA — Classificação
+
+Projeto de estudo utilizando algoritmos de **classificação**, trabalhando com preparação dos dados, treinamento e avaliação de modelos.
+
+**Tecnologias:**
+
+`Python` `Pandas` `Scikit-learn` `Machine Learning`
+
+🔗 [Ver projeto](https://github.com/luizfelipesouzaivo/algoritmos-ia-classificacao)
+
+---
+
+# 🛠️ Tecnologias
+
+### QA
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
@@ -159,38 +182,67 @@ QA
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+### Dados
 
-</div>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=Power-BI\&logoColor=black)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
 ---
 
-# 📊 Minha evolução
+# 📈 Como estou desenvolvendo meu portfólio
 
-Meu portfólio é baseado principalmente em **projetos práticos**.
+Meu objetivo é demonstrar conhecimento através de **projetos práticos**, e não apenas através de cursos.
 
-A ideia é demonstrar não apenas o conhecimento teórico, mas também minha capacidade de:
+### Em QA:
 
-* Analisar uma aplicação;
-* Pensar em cenários de teste;
-* Encontrar comportamentos inesperados;
-* Documentar bugs;
-* Criar evidências;
-* Automatizar fluxos;
-* Organizar um projeto de testes;
-* Utilizar ferramentas utilizadas no dia a dia de QA.
+```text
+Aplicação
+   ↓
+Análise
+   ↓
+Casos de Teste
+   ↓
+Execução
+   ↓
+Bug Report
+   ↓
+Evidências
+   ↓
+Automação
+```
+
+### Em Dados:
+
+```text
+Dados
+   ↓
+Tratamento
+   ↓
+Análise Exploratória
+   ↓
+Visualização
+   ↓
+Modelagem
+   ↓
+Avaliação
+   ↓
+Insights
+```
 
 ---
 
 # 🎯 Objetivo profissional
 
-Atualmente busco uma oportunidade como:
+Atualmente busco oportunidades de entrada na área de tecnologia, principalmente como:
 
-**QA Júnior | Analista de QA Júnior | Quality Assurance**
+**QA Júnior | Analista de QA Júnior | Analista de Dados Júnior**
 
-Tenho interesse em ambientes onde possa aplicar meus conhecimentos, aprender com profissionais mais experientes e continuar evoluindo tecnicamente.
-
-Estou aberto a oportunidades **remotas, híbridas ou presenciais**.
+Tenho interesse em ambientes onde possa aplicar meus conhecimentos, aprender com profissionais mais experientes e continuar desenvolvendo minhas habilidades técnicas.
 
 ---
 
@@ -198,17 +250,24 @@ Estou aberto a oportunidades **remotas, híbridas ou presenciais**.
 
 ### Luiz Felipe Souza Ivo
 
-💼 **LinkedIn:**
+💼 **LinkedIn**
+
 https://linkedin.com/in/luiz-felipe-souza-ivo
 
-💻 **GitHub:**
+💻 **GitHub**
+
 https://github.com/luizfelipesouzaivo
 
-🌐 **Portfólio:**
+🌐 **Portfólio**
+
 https://www.luizfelipesouzaivo.com.br
 
 ---
 
-# 🧪 "Qualidade não é apenas encontrar bugs, é ajudar a construir um software melhor."
+## 📌 Sobre este perfil
+
+Este GitHub reúne meus estudos e projetos práticos nas áreas de **Quality Assurance e Dados**.
+
+Estou construindo minha carreira através de projetos, prática constante e evolução técnica.
 
 Obrigado por visitar meu perfil.
