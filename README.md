@@ -13,7 +13,7 @@ Atualmente estou desenvolvendo meu portfólio através de projetos práticos, bu
 ## 🎯 Sobre mim
 
 * 🧪 Foco em **Quality Assurance**
-* 📊 Interesse em **Análise de Dados**
+* 📊 Análise de Dados
 * 🐍 Python
 * 🗄️ SQL
 * 📈 Power BI
