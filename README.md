@@ -1,336 +1,214 @@
-# 👨‍💻 Luiz Felipe Souza Ivo
+# 👋 Olá, eu sou Luiz Felipe!
 
-### 📊 Dados | 🤖 Inteligência Artificial | 🧠 Machine Learning | 💬 NLP
+### 🧪 QA Júnior | Testes Manuais | Automação de Testes
 
-Olá! Eu sou **Luiz Felipe Souza Ivo**, formado em **Sistemas de Informação**, com formação complementar em **Inteligência Artificial, Machine Learning e Deep Learning**.
+Sou profissional de tecnologia em início de carreira, atualmente direcionando minha trajetória para **Quality Assurance (QA)**.
 
-Meu foco profissional está na área de **Dados e Inteligência Artificial**, desenvolvendo projetos práticos com Python, Machine Learning, análise exploratória, clusterização, classificação e Processamento de Linguagem Natural.
+Tenho interesse em entender como os sistemas funcionam, identificar possíveis problemas e criar testes que ajudem a garantir uma melhor qualidade do software.
 
-Este perfil reúne projetos acadêmicos e de portfólio desenvolvidos com foco em **aprendizado aplicado, organização, documentação e reprodutibilidade**.
-
----
-
-## 🎯 Sobre Mim
-
-Tenho interesse em transformar dados em **informações, padrões e soluções que possam apoiar decisões e resolver problemas reais**.
-
-Ao longo dos meus estudos e projetos, venho trabalhando principalmente com:
-
-* 📊 Análise e exploração de dados
-* 🐍 Python para Dados
-* 🤖 Machine Learning
-* 📈 Classificação
-* 🔎 Clusterização
-* 🧪 Validação de modelos
-* 💬 Processamento de Linguagem Natural
-* 🧠 LLMs e aplicações com IA generativa
-* 📚 Estatística aplicada
-* 📊 Visualização e interpretação de dados
-
-Meu objetivo é continuar evoluindo tecnicamente e construir projetos cada vez mais próximos de problemas encontrados no mercado.
+Meu objetivo é ingressar profissionalmente na área de **QA Júnior**, desenvolvendo cada vez mais minhas habilidades em testes manuais e automação.
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+## 🎯 Sobre mim
 
-### 🐍 Linguagem
+* 🧪 Focado em **Quality Assurance**
+* 🔎 Interesse em **Testes Manuais e Automação**
+* 🐍 Estudando **Python**
+* 🎭 Praticando automação com **Playwright**
+* 🧪 Utilizando **Pytest**
+* 📝 Criação de **Casos de Teste**
+* 📋 Escrita de cenários utilizando **Gherkin**
+* 🐞 Identificação e documentação de **bugs**
+* 🔧 Utilização de **Git e GitHub**
+* 💻 Desenvolvimento dos meus projetos utilizando **VS Code**
 
-**Python**
+Busco transformar meus estudos em projetos práticos, criando um portfólio que demonstre minha evolução na área de QA.
 
-### 📊 Dados
+---
 
-* Pandas
-* NumPy
-* Matplotlib
-* Excel
-* SQL
-* Power BI
+# 🧪 Conhecimentos em QA
 
-### 🤖 Machine Learning
+### Testes
 
-* Scikit-learn
-* Classificação
-* Clusterização
-* K-Means
-* DBSCAN
-* Decision Tree
-* Logistic Regression
-* SVM
-* Validação de modelos
-* Métricas de avaliação
+* Testes funcionais
+* Testes positivos e negativos
+* Testes exploratórios
+* Testes de regressão
+* Casos de teste
+* Cenários de teste
+* Gherkin
+* Bug Report
+* Evidências de teste
+* Validação de requisitos
 
-### 🧠 Inteligência Artificial
+### Automação
 
-* Machine Learning
-* Deep Learning
-* LLMs
-* Embeddings
-* Transformers
-* Prompt Engineering
+* Python
+* Pytest
+* Playwright
+* Page Object Model (POM)
+* Assertions
+* Fixtures
+* Organização de testes
+* Automação de fluxos web
 
-### 💬 NLP
-
-* NLTK
-* spaCy
-* Tokenização
-* Stopwords
-* Stemming
-* Lematização
-* TF-IDF
-* Named Entity Recognition — NER
-* Topic Modeling
-* LDA
-
-### 🧰 Ferramentas
+### Ferramentas
 
 * Git
 * GitHub
-* Jupyter Notebook
-* Google Colab
+* GitHub Actions
 * VS Code
+* DevTools
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Projetos de QA
 
-## 🍷 Classificação de Qualidade de Vinhos
+## 🛒 SauceDemo — Testes Manuais e Automação
 
-Projeto de Machine Learning voltado para classificação da qualidade de vinhos.
+Projeto completo de estudos utilizando uma aplicação de e-commerce para praticar QA.
 
-### Técnicas utilizadas
+### O que foi realizado:
 
-* Logistic Regression
-* Decision Tree
-* Support Vector Machine
-* Stratified K-Fold
-* Cross-Validation
+* Casos de teste
+* Testes positivos e negativos
+* Cenários em Gherkin
+* Identificação de bugs
+* Bug Reports
+* Evidências
+* Automação de testes
+* Page Object Model
+* Pytest
+* Playwright
+* Relatórios de testes
+* GitHub Actions
 
-### Métricas
+### Tecnologias
 
-* Accuracy
-* Precision
-* Recall
-* F1-Score
-* ROC
+`Python` `Pytest` `Playwright` `Gherkin` `GitHub Actions`
 
-📌 **Objetivo:** comparar diferentes algoritmos de classificação e avaliar seu desempenho utilizando validação cruzada.
-
----
-
-## 🌎 Algoritmos de IA para Clusterização
-
-Projeto de aprendizado não supervisionado aplicado à análise de indicadores socioeconômicos e de saúde de diferentes países.
-
-### Técnicas utilizadas
-
-* K-Means
-* Hierarchical Clustering
-* Método de Ward
-* StandardScaler
-* PCA
-* Dendrograma
-* Análise de outliers
-
-📌 **Objetivo:** identificar grupos de países com características semelhantes a partir de seus indicadores.
+🔗 **[Ver projeto SauceDemo](https://github.com/luizfelipesouzaivo)**
 
 ---
 
-## 🧪 Validação de Modelos de Clusterização
+## 👥 OrangeHRM — Testes Manuais e Automação
 
-Projeto voltado à avaliação e comparação de algoritmos de clusterização.
+Projeto de prática de QA utilizando o OrangeHRM como sistema para testes.
 
-### Técnicas utilizadas
+### Atividades realizadas:
 
-* K-Means
-* DBSCAN
-* PCA
-* Silhouette Score
-* Davies-Bouldin Index
-* Calinski-Harabasz Index
-* Similaridade entre séries
-* Correlação
-* Cross-Correlation
-* DTW
+* Criação de casos de teste
+* Testes funcionais
+* Cenários em Gherkin
+* Testes negativos
+* Identificação de bugs
+* Registro de evidências
+* Testes de diferentes funcionalidades
+* Automação de fluxos da aplicação
 
-📌 **Objetivo:** analisar diferentes métricas para avaliar a qualidade dos agrupamentos encontrados pelos modelos.
+### Tecnologias
 
----
-
-## 📰 Processamento de Linguagem Natural — Folha de S. Paulo
-
-Projeto de NLP aplicado a notícias da editoria Mercado da **Folha de S. Paulo**, utilizando dados de 2016.
-
-### Técnicas utilizadas
-
-* Tokenização
-* Stopwords
-* Stemming
-* Lematização
-* Named Entity Recognition
-* Topic Modeling
-* LDA
-
-### Bibliotecas
-
-* NLTK
-* spaCy
-* Gensim
-* PyLDAvis
-
-📌 **Objetivo:** extrair informações e identificar padrões e tópicos presentes em textos jornalísticos.
+`Python` `Pytest` `Playwright` `Gherkin`
 
 ---
 
-## 🧠 LLMs e Processamento de Linguagem Natural
+# 📚 Atualmente estudando
 
-Projeto voltado aos fundamentos e aplicações de **Large Language Models — LLMs** e NLP.
-
-### Conceitos estudados
-
-* NLP
-* Transformers
-* Embeddings
-* Attention Mechanism
-* Fine-Tuning
-* Prompt Engineering
-* Named Entity Recognition
-* LLM Applications
-
-### Aplicações
-
-* LangChain
-* Streamlit
-* Integração com modelos de linguagem
-* Aplicações de IA generativa
-
-📌 **Objetivo:** compreender os fundamentos das LLMs e desenvolver aplicações práticas utilizando modelos de linguagem.
-
----
-
-# 📚 Formação Acadêmica
-
-### 🎓 Bacharelado em Sistemas de Informação
-
-**Universidade Estácio de Sá**
-
-Formação concluída.
-
-### 🤖 Pós-graduação em Inteligência Artificial, Machine Learning e Deep Learning
-
-**Faculdade Infnet**
-
-Formação voltada para Inteligência Artificial, Machine Learning e Deep Learning.
-
----
-
-# 📈 Atualmente Estudando
+Estou seguindo uma evolução prática na área de QA, buscando fortalecer principalmente:
 
 ```text
-Python
-   ↓
-Análise de Dados
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-NLP
-   ↓
-LLMs
-   ↓
-Power BI
-   ↓
-Projetos aplicados
-```
-
-Meu objetivo é transformar conhecimento teórico em **projetos práticos e reproduzíveis**, aumentando gradualmente a complexidade das soluções desenvolvidas.
-
----
-
-# 🗂️ Organização dos Projetos
-
-Procuro manter cada projeto organizado de forma independente, contendo:
-
-```text
-Projeto
-│
-├── README.md
-├── Notebook
-├── Dataset / fonte dos dados
-├── Análises
-├── Modelos
-└── Resultados
-```
-
-A documentação tem como objetivo facilitar a compreensão do problema, metodologia utilizada, tecnologias, resultados e principais aprendizados.
-
----
-
-# 📊 Meu Portfólio
-
-Os projetos deste perfil representam diferentes etapas da minha evolução em:
-
-```text
-Análise de Dados
-       │
-       ↓
-Machine Learning
-       │
-       ↓
-Classificação
-       │
-       ↓
-Clusterização
-       │
-       ↓
-NLP
-       │
-       ↓
-LLMs
-       │
-       ↓
-Inteligência Artificial
+QA
+ │
+ ├── Testes Manuais
+ │   ├── Casos de Teste
+ │   ├── Gherkin
+ │   ├── Bug Report
+ │   └── Testes Exploratórios
+ │
+ ├── Automação
+ │   ├── Python
+ │   ├── Pytest
+ │   ├── Playwright
+ │   └── Page Object Model
+ │
+ ├── API
+ │   └── Postman
+ │
+ ├── Banco de Dados
+ │   └── SQL
+ │
+ └── Versionamento
+     ├── Git
+     └── GitHub
 ```
 
 ---
 
-# 💼 Objetivo Profissional
+# 💻 Tecnologias
 
-Busco oportunidades na área de **Tecnologia**, especialmente em posições relacionadas a:
+<div align="left">
 
-* 📊 Analista de Dados
-* 🤖 Inteligência Artificial
-* 🧠 Machine Learning
-* 💬 NLP
-* 📈 BI e Analytics
-* 🐍 Python para Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-Tenho interesse em ambientes nos quais possa aplicar conhecimentos técnicos, desenvolver projetos, aprender continuamente e contribuir para soluções orientadas por dados.
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge\&logo=pytest\&logoColor=white)
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+</div>
+
+---
+
+# 📊 Minha evolução
+
+Meu portfólio é baseado principalmente em **projetos práticos**.
+
+A ideia é demonstrar não apenas o conhecimento teórico, mas também minha capacidade de:
+
+* Analisar uma aplicação;
+* Pensar em cenários de teste;
+* Encontrar comportamentos inesperados;
+* Documentar bugs;
+* Criar evidências;
+* Automatizar fluxos;
+* Organizar um projeto de testes;
+* Utilizar ferramentas utilizadas no dia a dia de QA.
+
+---
+
+# 🎯 Objetivo profissional
+
+Atualmente busco uma oportunidade como:
+
+**QA Júnior | Analista de QA Júnior | Quality Assurance**
+
+Tenho interesse em ambientes onde possa aplicar meus conhecimentos, aprender com profissionais mais experientes e continuar evoluindo tecnicamente.
+
+Estou aberto a oportunidades **remotas, híbridas ou presenciais**.
 
 ---
 
 # 📫 Contato
 
-### 🌐 Site Profissional
+### Luiz Felipe Souza Ivo
 
-**www.profissionalluizfelipeivo.com.br**
+💼 **LinkedIn:**
+https://linkedin.com/in/luiz-felipe-souza-ivo
 
-### 💼 LinkedIn
+💻 **GitHub:**
+https://github.com/luizfelipesouzaivo
 
-**linkedin.com/in/luiz-felipe-souza-ivo/**
-
-### 💻 GitHub
-
-**github.com/luizfelipesouzaivo**
+🌐 **Portfólio:**
+https://www.luizfelipesouzaivo.com.br
 
 ---
 
-# ⭐ Obrigado pela visita!
+# 🧪 "Qualidade não é apenas encontrar bugs, é ajudar a construir um software melhor."
 
-Este perfil está em constante evolução.
-
-Novos projetos, estudos e experimentos serão adicionados conforme avanço na minha formação em **Dados, Machine Learning e Inteligência Artificial**.
-
-**Transformando aprendizado em projetos.
-Transformando dados em informação.
-Transformando tecnologia em soluções.**
+Obrigado por visitar meu perfil.
